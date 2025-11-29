@@ -12,7 +12,7 @@
         "Confusion": true,
         "Trap": false,
         "Flitch": false,
-        "Icon": "PoMaHSE/SyncPairs/Volo_0175_5.png",
+        "Icon": "/SyncPairs/Volo_0175_5.png",
         "Label": ["Sinnoh"]
     }
 ]

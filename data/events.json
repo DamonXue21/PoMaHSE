@@ -2,26 +2,26 @@
     {
         "id": 2, 
         "Type": ["Fairy", "Ghost"],
-        "Icon": "PoMaHSE/Events/Fairy&Ghost.png"
+        "Icon": "/Events/Fairy&Ghost.png"
     },
     {
         "id": 1, 
         "Type": ["Fire", "Fly"],
-        "Icon": "PoMaHSE/Events/Fire&Flying.png"
+        "Icon": "/Events/Fire&Flying.png"
     },
     {
         "id": 3, 
         "Type": ["1", "1"],
-        "Icon": "PoMaHSE/Events/Fire&Flying.png"
+        "Icon": "/Events/Fire&Flying.png"
     },
     {
         "id": 4, 
         "Type": ["2", "2"],
-        "Icon": "PoMaHSE/Events/Fire&Flying.png"
+        "Icon": "/Events/Fire&Flying.png"
     },
     {
         "id": 5, 
         "Type": ["3", "3"],
-        "Icon": "PoMaHSE/Events/Fire&Flying.png"
+        "Icon": "/Events/Fire&Flying.png"
     }
 ]
