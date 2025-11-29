@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "Trainer": "望罗",
+        "Pokemon": "波克比",
+        "Type": "Fairy",
+        "Poison": false,
+        "Sleep": false,
+        "Paralysis": false,
+        "Burn": false,
+        "Freeze": false,
+        "Confusion": true,
+        "Trap": false,
+        "Flitch": false,
+        "Icon": "./SyncPairs/Volo_0175_5.png",
+        "Label": ["Sinnoh"]
+    }
+]

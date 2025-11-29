@@ -1,0 +1,27 @@
+[
+    {
+        "id": 2, 
+        "Type": ["Fairy", "Ghost"],
+        "Icon": "./Events/Fairy&Ghost.jpg"
+    },
+    {
+        "id": 1, 
+        "Type": ["Fire", "Fly"],
+        "Icon": "./Events/Fire&Fly.png"
+    },
+    {
+        "id": 3, 
+        "Type": ["1", "1"],
+        "Icon": "./Events/Fire&Fly.png"
+    },
+    {
+        "id": 4, 
+        "Type": ["2", "2"],
+        "Icon": "./Events/Fire&Fly.png"
+    },
+    {
+        "id": 5, 
+        "Type": ["3", "3"],
+        "Icon": "./Events/Fire&Fly.png"
+    }
+]
