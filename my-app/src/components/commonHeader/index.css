@@ -1,0 +1,13 @@
+.custom-menu .ant-menu-item {
+    color: #ffffff !important;           
+}
+
+
+.custom-menu .ant-menu-item-selected {
+    color: #00396f !important;           
+}
+
+/* 鼠标悬停颜色 */
+.custom-menu .ant-menu-item:hover {
+    color: #00396f !important;                    
+}

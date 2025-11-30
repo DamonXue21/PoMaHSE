@@ -1,0 +1,27 @@
+[
+    {
+        "id": 2, 
+        "Type": ["Fairy", "Ghost"],
+        "Icon": "/Events/Fairy&Ghost.png"
+    },
+    {
+        "id": 1, 
+        "Type": ["Fire", "Flying"],
+        "Icon": "/Events/Fire&Flying.png"
+    },
+    {
+        "id": 3, 
+        "Type": ["Poison", "Dragon"],
+        "Icon": "/Events/Poison&Dragon.png"
+    },
+    {
+        "id": 4, 
+        "Type": ["Poison", "Dragon"],
+        "Icon": "/Events/Poison&Dragon.png"
+    },
+    {
+        "id": 5, 
+        "Type": ["Poison", "Dragon"],
+        "Icon": "/Events/Poison&Dragon.png"
+    }
+]
