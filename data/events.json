@@ -6,22 +6,22 @@
     },
     {
         "id": 1, 
-        "Type": ["Fire", "Fly"],
+        "Type": ["Fire", "Flying"],
         "Icon": "/Events/Fire&Flying.png"
     },
     {
         "id": 3, 
-        "Type": ["1", "1"],
-        "Icon": "/Events/Fire&Flying.png"
+        "Type": ["Poison", "Dragon"],
+        "Icon": "/Events/Poison&Dragon.png"
     },
     {
         "id": 4, 
-        "Type": ["2", "2"],
-        "Icon": "/Events/Fire&Flying.png"
+        "Type": ["Poison", "Dragon"],
+        "Icon": "/Events/Poison&Dragon.png"
     },
     {
         "id": 5, 
-        "Type": ["3", "3"],
-        "Icon": "/Events/Fire&Flying.png"
+        "Type": ["Poison", "Dragon"],
+        "Icon": "/Events/Poison&Dragon.png"
     }
 ]
