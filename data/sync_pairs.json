@@ -184,7 +184,7 @@
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Wally_0282_5.png",
         "Label": ["Rival"],
-        "Description": "Confusion:\n- 50% Passive\n- 30% 2/5"
+        "Description": "Confusion:\n- 50% Passive\n- 30% Sync Grid (2/5)"
     },
     {
         "id": "Fairy_12",
@@ -597,7 +597,7 @@
     {
         "id": "Ghost_2",
         "Trainer": "Phoebe",
-        "Pokemon": "GeDusknoirngar",
+        "Pokemon": "Dusknoir",
         "Type": "Ghost",
         "Poison": false,
         "Sleep": false,
@@ -1102,7 +1102,7 @@
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Helena_0093_5.png",
         "Label": [],
-        "Description": "Paralysis:\n- Lick\n- ↑1 passive\n- ↑1 Sync Grid (3/5)"
+        "Description": "Paralysis:\n- Lick\n- ↑1 Passive\n- ↑1 Sync Grid (3/5)"
     },
     {
         "id": "Ghost_32",
