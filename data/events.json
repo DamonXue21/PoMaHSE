@@ -45,23 +45,48 @@
         
     },
     {
-        "id": 1, 
+        "id": 1,
         "Type": ["Fire", "Flying"],
-        "Icon": "/Events/Fire&Flying.png"
-    },
-    {
-        "id": 3, 
-        "Type": ["Poison", "Dragon"],
-        "Icon": "/Events/Poison&Dragon.png"
-    },
-    {
-        "id": 4, 
-        "Type": ["Poison", "Dragon"],
-        "Icon": "/Events/Poison&Dragon.png"
-    },
-    {
-        "id": 5, 
-        "Type": ["Poison", "Dragon"],
-        "Icon": "/Events/Poison&Dragon.png"
+        "Icon": "/Events/Fire&Flying.png",
+        "Battle": ["Time trial", "More attacks", "Aim for more damage"],
+        "Challenge": ["Confusion", "Main Character or Gym Leader"],
+        "Battles": [
+            {
+                "rule": "Opponents take 80% less damage when they are unaffected by a status condition or interference.",
+                "opponent": "Flint",
+                "pokemon": ["Emboar", "Infernape", "Blaziken"],
+                "weakness": ["Psychic", "Flying", "Ground"],
+                "syncmove": "Physical"
+            },
+            {
+                "rule": "The total number of moves opponents need to use before they can unleash a sync move is reduced by 3.",
+                "opponent": "Chili",
+                "pokemon": ["Pyroar", "Simisear", "Magmortar"],
+                "weakness": ["Fighting", "Water", "Rock"],
+                "syncmove": "Physical"
+            },
+            {
+                "rule": "Reduces the damage allies deal with physical attack moves by 80%.",
+                "opponent": "Blue",
+                "pokemon": ["Gyarados", "Pidgeot", "Charizard"],
+                "weakness": ["Rock", "Ice", "Water"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "Reduces allies' move gauge maximum by two.",
+                "opponent": "Skyla",
+                "pokemon": ["Jumpluff", "Swoobat", "Sigilyph"],
+                "weakness": ["Poison", "Dark", "Dark"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "No special rules.",
+                "opponent": "Kahili",
+                "pokemon": ["Crobat", "Skarmory", "Toucannon"],
+                "weakness": ["Psychic", "Fire", "Electric"],
+                "syncmove": "Physical"
+            }
+        ]
+        
     }
 ]
