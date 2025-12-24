@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PoMaHSE/static/css/main.85d9e8e7.css",
-    "main.js": "/PoMaHSE/static/js/main.6eff47a2.js",
+    "main.js": "/PoMaHSE/static/js/main.054a3b74.js",
     "static/js/453.117b0875.chunk.js": "/PoMaHSE/static/js/453.117b0875.chunk.js",
     "static/media/logo.svg": "/PoMaHSE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/PoMaHSE/index.html",
     "main.85d9e8e7.css.map": "/PoMaHSE/static/css/main.85d9e8e7.css.map",
-    "main.6eff47a2.js.map": "/PoMaHSE/static/js/main.6eff47a2.js.map",
+    "main.054a3b74.js.map": "/PoMaHSE/static/js/main.054a3b74.js.map",
     "453.117b0875.chunk.js.map": "/PoMaHSE/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85d9e8e7.css",
-    "static/js/main.6eff47a2.js"
+    "static/js/main.054a3b74.js"
   ]
 }

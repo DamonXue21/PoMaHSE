@@ -13,7 +13,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Volo_0175_5.png",
-        "Label": ["Sinnoh"],
+        "Label": ["Sinnoh", "Seasonal Outfit"],
         "Description": "Confusion:\n- 50% Sync Grid (2/5)"
     },
     {
@@ -47,7 +47,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Erika_0764_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Nothing special."
     },
     {
@@ -98,7 +98,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Lyra_0039_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Sleep:\n- Passive"
     },
     {
@@ -200,7 +200,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Dawn_0869_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Nothing special."
     },
     {
@@ -234,7 +234,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Serena_0547_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Paralysis:\n- Stun Spore"
     },
     {
@@ -302,7 +302,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Lillie_0730_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit", "Sprint"],
         "Description": "Sleep:\n- Sing\nConfusion:\n- 50% Sync Grid (2/5)"
     },
     {
@@ -319,7 +319,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Lisia_0078_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Nothing special."
     },
     {
@@ -353,7 +353,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Fairy/Marnie_0861_5.png",
-        "Label": ["Rival"],
+        "Label": ["Rival", "Seasonal Outfit"],
         "Description": "Flinch: 20% Sync Grid (3/5)"
     },
     {
@@ -438,7 +438,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Shauna_0700_5.png",
-        "Label": ["Rival"],
+        "Label": ["Rival", "Sprint"],
         "Description": "Nothing special."
     },
     {
@@ -574,7 +574,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Lacey_0869_4.png",
-        "Label": [],
+        "Label": ["Sprint"],
         "Description": "Nothing special."
     },
     {
@@ -625,7 +625,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Ghost/Phoebe_0563_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Flinch:\n- 40% Sync Grid (3/5)"
     },
     {
@@ -642,7 +642,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Ghost/Phoebe_0302_4.png",
-        "Label": [],
+        "Label": ["Sprint"],
         "Description": "Flinch:\n- 30% Astonish\n- ↑1 Sync Grid (3/5)\nParalysis:\n- Thunder Wave"
     },
     {
@@ -659,7 +659,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Gardenia_0781_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Seasonal Outfit"],
         "Description": "Confusion:\n- 50% Sync Grid (2/5)"
     },
     {
@@ -727,7 +727,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Acerola_0778_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Confusion:\n- Passive"
     },
     {
@@ -750,7 +750,7 @@
     {
         "id": "Ghost_11",
         "Trainer": "Acerola",
-        "Pokemon": "Banette",
+        "Pokemon": "Jellicent",
         "Type": "Ghost",
         "Poison": false,
         "Sleep": false,
@@ -761,7 +761,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Ghost/Acerola_0593_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Flinch: 40% Sync Grid (3/5)"
     },
     {
@@ -795,7 +795,7 @@
         "Trap": true,
         "Flinch": true,
         "Icon": "/SyncPairs/Ghost/Cynthia_0442_5.png",
-        "Label": ["Champion"],
+        "Label": ["Champion", "Sprint"],
         "Description": "Burn:\n- Will-O-Wisp\nConfusion:\n- Evil Spirit Shadow Ball\nTrap:\n- Evil Spirit Shadow Ball\nFlinch:\n- Evil Spirit Shadow Ball"
     },
     {
@@ -846,7 +846,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Dawn_0741_5.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Seasonal Outfit"],
         "Description": "Confusion:\n- Teeter Dance"
     },
     {
@@ -897,7 +897,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Morty_0354_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Burn:\n- Will-O-Wisp\n"
     },
     {
@@ -948,7 +948,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Lillie_0792_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Nothing special."
     },
     {
@@ -982,7 +982,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Selene_0800_5.png",
-        "Label": ["Main Character", "Champion"],
+        "Label": ["Main Character", "Champion", "Sprint"],
         "Description": "Nothing special."
     },
     {
@@ -999,7 +999,7 @@
         "Trap": true,
         "Flinch": true,
         "Icon": "/SyncPairs/Ghost/Ingo_0609_5.png",
-        "Label": [],
+        "Label": ["Sprint"],
         "Description": "Burn:\n- Will-O-Wisp\nConfusion:\n- Confuse Ray\n- Sync Grid (4/5)\nTrap:\n- Sync Grid (4/5)\nFlinch:\n- 50% Sync Grid (3/5)\n- Sync Grid (4/5)\n"
     },
     {
@@ -1067,7 +1067,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Allister_0711_5.png",
-        "Label": [],
+        "Label": ["Seasonal Outfit"],
         "Description": "Paralysis:\n- Sync Grid (3/5)"
     },
     {
@@ -1135,7 +1135,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Ghost/Iono_0987_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Seasonal Outfit"],
         "Description": "Confusion:\n- 50% Sync Grid (2/5)"
     },
     {

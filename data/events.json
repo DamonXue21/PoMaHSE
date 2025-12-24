@@ -3,43 +3,43 @@
         "id": 2, 
         "Type": ["Fairy", "Ghost"],
         "Icon": "/Events/Fairy&Ghost.png",
-        "Battle": ["Time trial", "More attacks", "Aim for more damage"],
-        "Challenge": ["Confusion", "Main Character or Gym Leader"],
+        "Battle": ["Time trial", "Fewer attacks", "More stat decreases"],
+        "Challenge": ["Sprint", "Rival or Seasonal Outfit"],
         "Battles": [
             {
-                "rule": "Opponents take 80% less damage when they are unaffected by a status condition or interference.",
-                "opponent": "Flint",
-                "pokemon": ["Emboar", "Infernape", "Blaziken"],
-                "weakness": ["Psychic", "Flying", "Ground"],
+                "rule": "Opponents are immune to status conditions and won't flinch, become confused, or become trapped.",
+                "opponent": "Bede",
+                "pokemon": ["Carbink", "Rapidash", "Whimsicott"],
+                "weakness": ["Water", "Ghost", "Fire"],
                 "syncmove": "Physical"
             },
             {
-                "rule": "The total number of moves opponents need to use before they can unleash a sync move is reduced by 3.",
-                "opponent": "Chili",
-                "pokemon": ["Pyroar", "Simisear", "Magmortar"],
-                "weakness": ["Fighting", "Water", "Rock"],
+                "rule": "Ally physical attack damage significantly reduced.",
+                "opponent": "Diantha",
+                "pokemon": ["Togekiss", "Gardevoir", "Hatterene"],
+                "weakness": ["Ice", "Poison", "Ghost"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "Allies can't be healed.",
+                "opponent": "Agatha",
+                "pokemon": ["Dusknoir", "Gengar", "Marowak"],
+                "weakness": ["Dark", "Ghost", "Water"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "Allies cannot change weather, etc.",
+                "opponent": "Morty",
+                "pokemon": ["Banette", "Sableye", "Drifblim"],
+                "weakness": ["Dark", "Fairy", "Electric"],
                 "syncmove": "Physical"
-            },
-            {
-                "rule": "Reduces the damage allies deal with physical attack moves by 80%.",
-                "opponent": "Blue",
-                "pokemon": ["Gyarados", "Pidgeot", "Charizard"],
-                "weakness": ["Rock", "Ice", "Water"],
-                "syncmove": "Special"
-            },
-            {
-                "rule": "Reduces allies' move gauge maximum by two.",
-                "opponent": "Skyla",
-                "pokemon": ["Jumpluff", "Swoobat", "Sigilyph"],
-                "weakness": ["Poison", "Dark", "Dark"],
-                "syncmove": "Special"
             },
             {
                 "rule": "No special rules.",
-                "opponent": "Kahili",
-                "pokemon": ["Crobat", "Skarmory", "Toucannon"],
-                "weakness": ["Psychic", "Fire", "Electric"],
-                "syncmove": "Physical"
+                "opponent": "Allister",
+                "pokemon": ["Dragapult", "Chandelure", "Rotom"],
+                "weakness": ["Dragon", "Ground", "Ghost"],
+                "syncmove": "Special"
             }
         ]
         
