@@ -1,5 +1,50 @@
 [
     {
+        "id": 3, 
+        "Type": ["Grass", "Electric"],
+        "Icon": "/Events/Grass&Electric.png",
+        "Battle": ["Time trial", "Fewer attacks", "More stat decreases"],
+        "Challenge": ["Sprint", "Rival or Seasonal Outfit"],
+        "Battles": [
+            {
+                "rule": "Opponents are immune to status conditions and won't flinch, become confused, or become trapped.",
+                "opponent": "Bede",
+                "pokemon": ["Carbink", "Rapidash", "Whimsicott"],
+                "weakness": ["Water", "Ghost", "Fire"],
+                "syncmove": "Physical"
+            },
+            {
+                "rule": "Ally physical attack damage significantly reduced.",
+                "opponent": "Diantha",
+                "pokemon": ["Togekiss", "Gardevoir", "Hatterene"],
+                "weakness": ["Ice", "Poison", "Ghost"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "Allies can't be healed.",
+                "opponent": "Agatha",
+                "pokemon": ["Dusknoir", "Gengar", "Marowak"],
+                "weakness": ["Dark", "Ghost", "Water"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "Allies cannot change weather, etc.",
+                "opponent": "Morty",
+                "pokemon": ["Banette", "Sableye", "Drifblim"],
+                "weakness": ["Dark", "Fairy", "Electric"],
+                "syncmove": "Physical"
+            },
+            {
+                "rule": "No special rules.",
+                "opponent": "Allister",
+                "pokemon": ["Dragapult", "Chandelure", "Rotom"],
+                "weakness": ["Dragon", "Ground", "Ghost"],
+                "syncmove": "Special"
+            }
+        ]
+        
+    },
+    {
         "id": 2, 
         "Type": ["Fairy", "Ghost"],
         "Icon": "/Events/Fairy&Ghost.png",
