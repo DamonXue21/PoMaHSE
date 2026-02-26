@@ -3,43 +3,43 @@
         "id": 3, 
         "Type": ["Grass", "Electric"],
         "Icon": "/Events/Grass&Electric.png",
-        "Battle": ["Time trial", "Fewer attacks", "More stat decreases"],
-        "Challenge": ["Sprint", "Rival or Seasonal Outfit"],
+        "Battle": ["Time trial", "Remaining HP", "More stat increases"],
+        "Challenge": ["Paralysis", "Sygna Suit or Unova"],
         "Battles": [
             {
-                "rule": "Opponents are immune to status conditions and won't flinch, become confused, or become trapped.",
-                "opponent": "Bede",
-                "pokemon": ["Carbink", "Rapidash", "Whimsicott"],
-                "weakness": ["Water", "Ghost", "Fire"],
+                "rule": "Ally sync move damage significantly reduced",
+                "opponent": "Elesa",
+                "pokemon": ["Pawmot", "Emolga", "Yamper"],
+                "weakness": ["Fairy", "Rock", "Ground"],
                 "syncmove": "Physical"
             },
             {
-                "rule": "Ally physical attack damage significantly reduced.",
-                "opponent": "Diantha",
-                "pokemon": ["Togekiss", "Gardevoir", "Hatterene"],
-                "weakness": ["Ice", "Poison", "Ghost"],
+                "rule": "Reduces allies' move gauge maximum by two.",
+                "opponent": "Clemont",
+                "pokemon": ["Electabuzz", "Heliolisk", "Raichu (Alola Form)"],
+                "weakness": ["Ground", "Ground", "Dark"],
                 "syncmove": "Special"
-            },
-            {
-                "rule": "Allies can't be healed.",
-                "opponent": "Agatha",
-                "pokemon": ["Dusknoir", "Gengar", "Marowak"],
-                "weakness": ["Dark", "Ghost", "Water"],
-                "syncmove": "Special"
-            },
-            {
-                "rule": "Allies cannot change weather, etc.",
-                "opponent": "Morty",
-                "pokemon": ["Banette", "Sableye", "Drifblim"],
-                "weakness": ["Dark", "Fairy", "Electric"],
-                "syncmove": "Physical"
             },
             {
                 "rule": "No special rules.",
-                "opponent": "Allister",
-                "pokemon": ["Dragapult", "Chandelure", "Rotom"],
-                "weakness": ["Dragon", "Ground", "Ghost"],
+                "opponent": "Marnie",
+                "pokemon": ["Raichu (Alola Form)", "Morpeko", "Togedemaru"],
+                "weakness": ["Ground", "Fairy", "Fighting"],
+                "syncmove": "Physical"
+            },
+            {
+                "rule": "Allies cannot change weather, etc.",
+                "opponent": "Ramos",
+                "pokemon": ["Appletun", "Gogoat", "Exeggutor"],
+                "weakness": ["Fairy", "Poison", "Dark"],
                 "syncmove": "Special"
+            },
+            {
+                "rule": "The total number of moves opponents need to use before they can unleash a sync move is reduced by 3.",
+                "opponent": "Gardenia",
+                "pokemon": ["Cacturne", "Breloom", "Parasect"],
+                "weakness": ["Fighting", "Fairy", "Poison"],
+                "syncmove": "Physical"
             }
         ]
         
