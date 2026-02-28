@@ -132,7 +132,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Leaf_0036_4.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Sygna Suit"],
         "Description": "Confusion:\n- 50% Sync Grid (3/5)"
     },
     {
@@ -1254,7 +1254,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Grass/Erika_0470_5.png",
-        "Label": [],
+        "Label": ["Sygna Suit"],
         "Description": "Nothing special."
     },
     {
@@ -1356,7 +1356,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Grass/Rosa_0497_5.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Unova"],
         "Description": "Nothing special."
     },
     {
@@ -1373,7 +1373,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Grass/Rosa_0492_5.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Unova"],
         "Description": "Nothing special."
     },
     {
@@ -1390,7 +1390,7 @@
         "Trap": true,
         "Flinch": true,
         "Icon": "/SyncPairs/Grass/Rosa_0585_5.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Unova"],
         "Description": "Trap Flinch:\n- Sync Grid"
     },
     {
@@ -1407,7 +1407,7 @@
         "Trap": true,
         "Flinch": true,
         "Icon": "/SyncPairs/Grass/Rosa_0585_2_5.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Unova"],
         "Description": "Trap Flinch:\n- Sync Grid"
     },
     {
@@ -1424,7 +1424,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Grass/Skyla_0189_5.png",
-        "Label": ["Gym Leader", "Seasonal Outfit", "Sprint"],
+        "Label": ["Gym Leader", "Seasonal Outfit", "Sprint", "Unova"],
         "Description": "Nothing special."
     },
     {
@@ -1458,7 +1458,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Grass/Acerola_0787_EX.png",
-        "Label": [],
+        "Label": ["Sygna Suit"],
         "Description": "Nothing special."
     },
     {
@@ -1509,7 +1509,7 @@
         "Trap": true,
         "Flinch": true,
         "Icon": "/SyncPairs/Grass/Lyra_0251_5.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Sygna Suit"],
         "Description": "Confusion Trap Flinch:\n- Passive"
     },
     {
@@ -1526,7 +1526,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Grass/Hilda_0470_5.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Unova"],
         "Description": "Nothing special."
     },
     {
@@ -1781,7 +1781,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Grass/Ball Guy_0101_5.png",
-        "Label": [],
+        "Label": ["Sygna Suit"],
         "Description": "Flinch:\n- 40% Sync Grid (3/5)"
     },
     {
@@ -1887,6 +1887,23 @@
         "Description": "Trap:\n- Passive"
     },
     {
+        "id": "Grass_45",
+        "Trainer": "Juliana",
+        "Pokemon": "Sprigatito",
+        "Type": "Grass",
+        "Poison": false,
+        "Sleep": false,
+        "Paralysis": false,
+        "Burn": false,
+        "Freeze": false,
+        "Confusion": true,
+        "Trap": false,
+        "Flinch": false,
+        "Icon": "/SyncPairs/Grass/Florian_1017_5.png",
+        "Label": ["Main Character", "Seasonal Outfit"],
+        "Description": "Confusion:\n- Sync Grid (2/5)"
+    },
+    {
         "id": "Grass_41",
         "Trainer": "Carmine",
         "Pokemon": "Sinistcha",
@@ -1934,7 +1951,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Grass/Cilan_0512_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Unova"],
         "Description": "Nothing special."
     },
     {
@@ -2070,7 +2087,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Electric/Hau_0785_5.png",
-        "Label": [],
+        "Label": ["Sygna Suit"],
         "Description": "Nothing special."
     },
     {
@@ -2138,7 +2155,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Electric/Hilbert_0642_05.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Unova"],
         "Description": "Paralysis:\n- 20% Wildbolt Storm\n- 1↑ Sync Grid (2/5)\n- Midsummer Wildbolt Storm"
     },
     {
@@ -2155,7 +2172,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Electric/Elesa_0523_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Unova"],
         "Description": "Paralysis:\n- 30% Spark\n- 1↑ Sync Grid (2/5)"
     },
     {
@@ -2172,7 +2189,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Electric/Elesa_0479_5.png",
-        "Label": [],
+        "Label": ["Unova", "Sygna Suit"],
         "Description": "Paralysis:\n- 10% Thunder Shock\n- 30% Thunder\n- 1↑ Sync Grid (3/5)"
     },
     {
@@ -2189,7 +2206,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Electric/Elesa_0587_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Unova"],
         "Description": "Paralysis:\n- 10% Thunder Shock\n- Nuzzle\nFlinch:\n- 20% Sync Grid (3/5)"
     },
     {
@@ -2206,7 +2223,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Electric/Elesa_0595_4.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Unova"],
         "Description": "Nothing special."
     },
     {
@@ -2223,7 +2240,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Electric/Elesa_0642_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Unova", "Sygna Suit"],
         "Description": "Paralysis:\n- 20% Wildbolt Storm\n- 1↑ Sync Grid (2/5)\n- Thunder-Calling Wildbolt Storm"
     },
     {
@@ -2242,6 +2259,23 @@
         "Icon": "/SyncPairs/Electric/Red_0025_5.png",
         "Label": ["Main Character"],
         "Description": "Paralysis:\n- 10% Thunder Shock\n- 4↑ Sync Grid (2/5)\nFlinch:\n- 50% Sync Grid (3/5)"
+    },
+    {
+        "id": "Electric_40",
+        "Trainer": "Red",
+        "Pokemon": "Pikachu",
+        "Type": "Electric",
+        "Poison": false,
+        "Sleep": false,
+        "Paralysis": true,
+        "Burn": false,
+        "Freeze": false,
+        "Confusion": false,
+        "Trap": false,
+        "Flinch": true,
+        "Icon": "/SyncPairs/Electric/Red_0025_2_5.png",
+        "Label": ["Main Character"],
+        "Description": "Paralysis:\n- Everlasting Thunderbolt\n- The Original Thunder\n- Glorious Thunder\nFlinch:\n- 30% Everlasting Thunderbolt"
     },
     {
         "id": "Electric_18",
@@ -2359,7 +2393,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Electric/N_0644_5.png",
-        "Label": ["Rival"],
+        "Label": ["Rival", "Unova"],
         "Description": "Paralysis:\n- 20% Bolt Strike\n- 1↑ Sync Grid (2/5)\n- 4↑ Sync Grid (4/5)"
     },
     {
@@ -2376,7 +2410,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Electric/Piers_0849_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Sygna Suit"],
         "Description": "Paralysis:\n- 30% Thunder\n- 2↑ Sync Grid (3/5)\nPoison:\n- 30% Sludge Bomb\n- 2↑ Sync Grid (3/5)"
     },
     {
@@ -2410,7 +2444,7 @@
         "Trap": true,
         "Flinch": true,
         "Icon": "/SyncPairs/Electric/Emmet_0604_5.png",
-        "Label": [],
+        "Label": ["Unova"],
         "Description": "Paralysis:\n- 10% Thunder Fang\n- 9↑ Passive\nTrap:\n- 100% Passive\nFlinch:\n- 10% Thunder Fang\n- 3↑ Sync Grid (2/5)"
     },
     {
@@ -2512,7 +2546,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Electric/Iono_0939_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Sygna Suit"],
         "Description": "Paralysis:\n- Ultra-Bright Zap Cannon\nFlinch:\n- 50% Ultra-Bright Zap Cannon"
     },
     {
