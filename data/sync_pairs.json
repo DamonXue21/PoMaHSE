@@ -132,7 +132,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Fairy/Leaf_0036_4.png",
-        "Label": ["Main Character", "Sygna Suit"],
+        "Label": ["Main Character"],
         "Description": "Confusion:\n- 50% Sync Grid (3/5)"
     },
     {
@@ -2597,7 +2597,7 @@
         "Trap": true,
         "Flinch": true,
         "Icon": "/SyncPairs/Electric/Iono_1021_5.png",
-        "Label": ["Gym Leader"],
+        "Label": ["Gym Leader", "Sygna Suit"],
         "Description": "Paralysis:\n- 30% Thunder\n- 3↑ Sync Grid (2/5)\nFlinch:\n- Fully Charged Thunderclap\nTrap Confusion:\n- Sync Grid (3/5)"
     },
     {
