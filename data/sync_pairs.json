@@ -1543,7 +1543,7 @@
         "Trap": false,
         "Flinch": false,
         "Icon": "/SyncPairs/Grass/Leaf_0003_5.png",
-        "Label": [],
+        "Label": ["Sygna Suit"],
         "Description": "Poison:\n- 50% Passive\n- 30% Sync Grid (4/5)"
     },
     {
@@ -2257,7 +2257,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Electric/Red_0025_5.png",
-        "Label": ["Main Character"],
+        "Label": ["Main Character", "Sygna Suit"],
         "Description": "Paralysis:\n- 10% Thunder Shock\n- 4↑ Sync Grid (2/5)\nFlinch:\n- 50% Sync Grid (3/5)"
     },
     {
@@ -2444,7 +2444,7 @@
         "Trap": true,
         "Flinch": true,
         "Icon": "/SyncPairs/Electric/Emmet_0604_5.png",
-        "Label": ["Unova"],
+        "Label": ["Unova", "Sygna Suit"],
         "Description": "Paralysis:\n- 10% Thunder Fang\n- 9↑ Passive\nTrap:\n- 100% Passive\nFlinch:\n- 10% Thunder Fang\n- 3↑ Sync Grid (2/5)"
     },
     {
@@ -2546,7 +2546,7 @@
         "Trap": false,
         "Flinch": true,
         "Icon": "/SyncPairs/Electric/Iono_0939_5.png",
-        "Label": ["Gym Leader", "Sygna Suit"],
+        "Label": ["Gym Leader"],
         "Description": "Paralysis:\n- Ultra-Bright Zap Cannon\nFlinch:\n- 50% Ultra-Bright Zap Cannon"
     },
     {
