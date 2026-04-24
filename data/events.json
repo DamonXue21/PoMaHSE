@@ -1,5 +1,50 @@
 [
     {
+        "id": 4, 
+        "Type": ["Ice", "Dragon"],
+        "Icon": "/Events/Ice&Dragon.png",
+        "Battle": ["Time trial", "More attacks", "More stat decreases"],
+        "Challenge": ["Paralysis", "Seasonal Outfit or Passionate Spirit"],
+        "Battles": [
+            {
+                "rule": "Five stats of allied strike sync pairs significantly reduced",
+                "opponent": "Ghetsis",
+                "pokemon": ["Mamoswine", "Kyurem", "Weavile"],
+                "weakness": ["Water", "Dragon", "Bug"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "Opponent max sync move countdown -3.",
+                "opponent": "Candice",
+                "pokemon": ["Glalie", "Froslass", "Glaceon"],
+                "weakness": ["Steel", "Ghost", "Fire"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "No special rules.",
+                "opponent": "Raihan",
+                "pokemon": ["Flygon", "Duraludon", "Tyrantrum"],
+                "weakness": ["Dragon", "Ground", "Ground"],
+                "syncmove": "Special"
+            },
+            {
+                "rule": "Ally special attack damage significantly reduced",
+                "opponent": "Clair",
+                "pokemon": ["Haxorus", "Dragonite", "Garchomp"],
+                "weakness": ["Dragon", "Fairy", "Dragon"],
+                "syncmove": "Physical"
+            },
+            {
+                "rule": "Five stats of allied tech sync pairs significantly reduced",
+                "opponent": "Zinnia",
+                "pokemon": ["Altaria", "Salamence", "Hydreigon"],
+                "weakness": ["Ice", "Ice", "Fairy"],
+                "syncmove": "Physical"
+            }
+        ]
+        
+    },
+    {
         "id": 3, 
         "Type": ["Grass", "Electric"],
         "Icon": "/Events/Grass&Electric.png",
@@ -35,7 +80,7 @@
                 "syncmove": "Special"
             },
             {
-                "rule": "The total number of moves opponents need to use before they can unleash a sync move is reduced by 3.",
+                "rule": "Opponent max sync move countdown -3.",
                 "opponent": "Gardenia",
                 "pokemon": ["Cacturne", "Breloom", "Parasect"],
                 "weakness": ["Fighting", "Fairy", "Poison"],
@@ -104,7 +149,7 @@
                 "syncmove": "Physical"
             },
             {
-                "rule": "The total number of moves opponents need to use before they can unleash a sync move is reduced by 3.",
+                "rule": "Opponent max sync move countdown -3.",
                 "opponent": "Chili",
                 "pokemon": ["Pyroar", "Simisear", "Magmortar"],
                 "weakness": ["Fighting", "Water", "Rock"],
